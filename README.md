@@ -1,30 +1,20 @@
-### 📍 Dallas, Texas | 📧 [Email](mailto:harish.naidu0207@gmail.com) | 🖇 [LinkedIn](https://linkedin.com/in/g-harish-naidu)
+# Harish Naidu Gaddam / harishnaidu0207
 
----
+## Hi, 👋 I'm Harish Naidu
+### About Me
+I'm a Junior Software Engineer currently enhancing operational efficiencies through innovative software solutions at Indegene and as a Graduate Research Assistant at UT Arlington Research Institute. I hold a BTech in Computer Science from REVA University and am pursuing my MSc in Computer Science at the University of Texas at Arlington.
 
-## About Me
-🚀 Junior Software Engineer skilled in enhancing operational efficiencies through innovative software solutions. My work spans email system improvements and the integration of machine learning technologies into practical applications.
+### 📬 Contact me at
+[![Gmail](https://img.shields.io/badge/Email-Harish-red?style=flat-square&logo=gmail&logoColor=white)](mailto:harish.naidu0207@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-harishnaidu0207-lightgrey?style=flat-square&logo=github)](https://github.com/harishnaidu0207)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish_Naidu-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/g-harish-naidu)
+
+### ⚡️ Quick Facts
+- 🌱 I’m currently learning Advanced Machine Learning techniques.
+- 👀 I’m interested in projects that enhance user engagement and operational efficiency.
+- 💞️ I'm looking to collaborate on real-world projects in Machine Learning and Front-End Development.
 
 ## Key Achievements
-
-### UT Arlington Research Institute (UTARI)
-**Graduate Research Assistant (Jan 2024 - Present)**
-- Developing an Arduino-powered exoskeleton controller with a Python GUI, pushing the boundaries of assistive technology.
-
-### Indegene
-**Junior Software Engineer (Jan 2022 - Dec 2023)**
-- Enhanced email template production efficiency by 30% and reduced approval times significantly.
-- Implemented a variant system that cut content duplication by 80%, streamlining content management.
-
-### Education
-**MSc in Computer Science, University of Texas at Arlington** (Jan 2023 - May 2024)
-**BTech in Computer Science, REVA University** (2018 - 2022)
-
-## Skills
-- **Programming**: Python, C++, JavaScript
-- **Tools**: Git, Vue.js
-- **Areas**: Machine Learning, Front-End Development, Data Analysis
-
-🌟 Eager to apply my technical skills and enthusiasm for software development to new and challenging projects.
-
----
+- Developed an Arduino-powered exoskeleton controller at UTARI.
+- Enhanced email template production efficiency by 30% and reduced approval times at Indegene.
+- Skilled in Python, C++, JavaScript, and using tools like Git and Vue.js.
