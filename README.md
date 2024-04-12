@@ -1,5 +1,3 @@
-# Harish Naidu Gaddam
-
 ### 📍 Dallas, Texas | 📧 [Email](mailto:harish.naidu0207@gmail.com) | 🖇 [LinkedIn](https://linkedin.com/in/g-harish-naidu)
 
 ---
