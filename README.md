@@ -6,6 +6,7 @@ I'm a Junior Software Engineer currently enhancing operational efficiencies thro
 [![Gmail](https://img.shields.io/badge/Email-Harish-red?style=flat-square&logo=gmail&logoColor=white)](mailto:harish.naidu0207@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-harishnaidu0207-lightgrey?style=flat-square&logo=github)](https://github.com/harishnaidu0207)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish_Naidu-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/g-harish-naidu)
+(https://harishnaidu0207.github.io/harish-portfolio-2024/)
 
 ### ⚡️ Quick Facts
 - 🌱 I’m currently learning Advanced Machine Learning techniques.
