@@ -1,4 +1,4 @@
-## Hi, 👋 I'm Harish Naidu
+## Hi, 👋 I'm Harish
 ### About Me
 I'm a Junior Software Engineer currently enhancing operational efficiencies through innovative software solutions at Indegene and as a Graduate Research Assistant at UT Arlington Research Institute. I hold a BTech in Computer Science from REVA University and am pursuing my MSc in Computer Science at the University of Texas at Arlington.
 
