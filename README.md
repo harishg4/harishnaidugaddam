@@ -11,7 +11,7 @@ I am a Data Engineer with hands-on experience in designing and optimizing scalab
 
 ### 📬 Contact Me
 [![Email](https://img.shields.io/badge/Email-Harish-red?style=flat-square&logo=gmail&logoColor=white)](mailto:harish.naidu0207@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-harishnaidu0207-lightgrey?style=flat-square&logo=github)](https://github.com/harishnaidu0207)  
+[![GitHub](https://img.shields.io/badge/GitHub-harishnaidu0207-lightgrey?style=flat-square&logo=github)](https://github.com/harishnaidugaddam)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish_Naidu-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/g-harish-naidu)
 
 ### 🏆 Quick Achievements
