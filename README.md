@@ -1,18 +1,21 @@
 ## Hi, 👋 I'm Harish
-### About Me
-I'm a Junior Software Engineer currently enhancing operational efficiencies through innovative software solutions at Indegene and as a Graduate Research Assistant at UT Arlington Research Institute. 
-### 📬 Contact me at
-[![Gmail](https://img.shields.io/badge/Email-Harish-red?style=flat-square&logo=gmail&logoColor=white)](mailto:harish.naidu0207@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-harishnaidu0207-lightgrey?style=flat-square&logo=github)](https://github.com/harishnaidu0207)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish_Naidu-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/g-harish-naidu)
 
+### About Me
+I am a Data Engineer with hands-on experience in designing and optimizing scalable data solutions. My expertise spans across building data pipelines, cloud architectures, and working with Big Data technologies. I'm passionate about transforming complex datasets into actionable insights and improving operational efficiencies. I also have experience as a Full Stack Developer, which has given me a strong understanding of both front-end and back-end technologies.
 
 ### ⚡️ Quick Facts
-- 🌱 I’m currently learning Advanced Machine Learning techniques.
-- 👀 I’m interested in projects that enhance user engagement and operational efficiency.
-- 💞️ I'm looking to collaborate on real-world projects in Machine Learning and Front-End Development.
+- 🌱 Currently exploring advanced data engineering practices and machine learning techniques.
+- 💻 Passionate about solving complex data problems and optimizing data workflows.
+- 🛠️ Skilled in Python, SQL, AWS, Spark, Docker, Kubernetes, and various ETL tools.
+- 👀 Interested in collaborating on data engineering and cloud architecture projects.
 
-## Key Achievements
-- Developed an Arduino-powered exoskeleton controller at UTARI.
-- Enhanced email template production efficiency by 30% and reduced approval times at Indegene.
-- Skilled in Python, C++, JavaScript, and using tools like Git and Vue.js.
+### 📬 Contact Me
+[![Email](https://img.shields.io/badge/Email-Harish-red?style=flat-square&logo=gmail&logoColor=white)](mailto:harish.naidu0207@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-harishnaidu0207-lightgrey?style=flat-square&logo=github)](https://github.com/harishnaidu0207)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish_Naidu-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/g-harish-naidu)
+
+### 🏆 Quick Achievements
+- Developed scalable data pipelines for large-scale data processing using AWS and Spark.
+- Reduced data processing times by 40% with optimized ETL workflows.
+- Built real-time data processing systems that handle millions of events per second.
+- Contributed to improving operational efficiencies through full-stack development solutions.
