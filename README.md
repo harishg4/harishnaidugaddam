@@ -13,6 +13,7 @@ I am a Data Engineer with hands-on experience in designing and optimizing scalab
 [![Email](https://img.shields.io/badge/Email-Harish-red?style=flat-square&logo=gmail&logoColor=white)](mailto:harish.naidu0207@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-harishnaidugaddam-lightgrey?style=flat-square&logo=github)](https://github.com/harishnaidugaddam)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish_Naidu-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/g-harish-naidu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-harishnaidugaddam-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/harishnaidugaddam/)
 
 ### 🏆 Quick Achievements
 - Developed scalable data pipelines for large-scale data processing using AWS and Spark.
