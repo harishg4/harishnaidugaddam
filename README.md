@@ -1,7 +1,7 @@
 ## Hi, 👋 I'm Harish
 
 ### About Me
-I am a Data Engineer with hands-on experience in designing and optimizing scalable data solutions. My expertise spans across building data pipelines, cloud architectures, and working with Big Data technologies. I'm passionate about transforming complex datasets into actionable insights and improving operational efficiencies. I also have experience as a Full Stack Developer, which has given me a strong understanding of both front-end and back-end technologies.
+I am a Software Engineer with hands-on experience in designing and optimizing scalable data solutions. My expertise spans across building data pipelines, cloud architectures, and working with Big Data technologies. I'm passionate about transforming complex datasets into actionable insights and improving operational efficiencies. I also have experience as a Full Stack Developer, which has given me a strong understanding of both front-end and back-end technologies.
 
 ### ⚡️ Quick Facts
 - 🌱 Currently exploring advanced data engineering practices and machine learning techniques.
