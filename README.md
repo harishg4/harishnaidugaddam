@@ -6,14 +6,14 @@ I am a Software Engineer with hands-on experience in designing and optimizing sc
 ### ⚡️ Quick Facts
 - 🌱 Currently exploring advanced data engineering practices and machine learning techniques.
 - 💻 Passionate about solving complex data problems and optimizing data workflows.
-- 🛠️ Skilled in Python, SQL, AWS, Spark, Docker, Kubernetes, and various ETL tools.
-- 👀 Interested in collaborating on data engineering and cloud architecture projects.
+- 🛠️ Skilled in Java, JavaScript, Python, SQL, AWS, Spark, Docker, Kubernetes.
+- 👀 Interested in collaborating on software engineering and cloud architecture projects.
 
 ### 📬 Contact Me
 [![Email](https://img.shields.io/badge/Email-Harish-red?style=flat-square&logo=gmail&logoColor=white)](mailto:harish.naidu0207@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-harishnaidugaddam-lightgrey?style=flat-square&logo=github)](https://github.com/harishnaidugaddam)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish_Naidu-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/g-harish-naidu)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-harishnaidugaddam-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/harishnaidugaddam/)
+
 
 
 ### 🏆 Quick Achievements
