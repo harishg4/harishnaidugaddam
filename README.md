@@ -16,16 +16,6 @@ I'm a Software Engineer who loves building systems that scale, solve real proble
 
 ---
 
-## 🔧 Technologies I Work With
-
-- **Languages:** Python, Java, JavaScript, SQL
-- **Frameworks & Libraries:** React, Redux, Node.js (basic), Express, Streamlit
-- **Cloud & DevOps:** AWS (Lambda, ECS, CloudWatch), Docker, Kubernetes, Terraform
-- **CI/CD & Testing:** GitHub Actions, Jenkins, Argo CD, JUnit, Pytest
-- **System Design:** REST APIs, Microservices, Event-Driven Architecture, Observability
-
----
-
 ## 🛠️ What I'm Building (or Learning)
 
 - 🧩 Playing with system design patterns and open-source backend architectures
