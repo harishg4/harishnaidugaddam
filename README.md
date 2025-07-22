@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 
-I'm a Software Engineer who loves building systems that scale, solve real problems, and power meaningful user experiences. With 6+ years of experience, I specialize in backend systems, APIs, cloud-native architectures, and full-stack development. I’m passionate about clean code, developer efficiency, and creating software that can impact millions (or billions!) of users around the world.
+I'm a Software Engineer who loves building systems that scale, solve real problems, and power meaningful user experiences. I specialize in backend systems, APIs, cloud-native architectures, and full-stack development. I’m passionate about clean code, developer efficiency, and creating software that can impact millions (or billions!) of users around the world.
 
 ---
 
