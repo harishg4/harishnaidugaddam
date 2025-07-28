@@ -24,14 +24,6 @@ I'm a Software Engineer who loves building systems that scale, solve real proble
 
 ---
 
-## 📫 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-harish.naidu0207@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:harish.naidu0207@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-harishnaidugaddam-lightgrey?style=flat-square&logo=github)](https://github.com/harishnaidugaddam)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish_Naidu-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/g-harish-naidu)
-
----
-
 ## 🌟 Fun Fact
 
 > I’m endlessly fascinated by how code, product thinking, and cloud infrastructure come together to build tools people love. That’s the kind of engineering I live for.
